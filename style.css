@@ -1,0 +1,80 @@
+.wraper{
+    width: 500px;
+    height: 500px;
+}
+.head{
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    border-radius: 100%;
+    top: 54px;
+    left: 54px;
+   position: absolute;
+}
+.oko{
+    width: 50px;
+    height: 50px;
+    background-color: aliceblue;
+    border-radius: 100%;
+    top: 30px;
+    left: 85px;
+    position: absolute;
+}
+.oko1{
+width: 17px;
+height: 17px;
+border-radius: 100%;
+background-color: black;
+position: absolute;
+top: 12px;
+left: 24px;
+}
+.oko2{
+    width: 7px;
+    height: 7px;
+    position: absolute;
+    background-color: aliceblue;
+    top: 4px;
+    left: 7px;
+    border-radius: 100%;
+}
+.body{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    border-radius: 100%;
+    top: 165px;
+    left: 6px;
+    position: absolute;
+
+}
+.klyv{
+    width: 118px;
+    height: 115px;
+    position: absolute;
+    background-color: yellow;
+    border-radius: 6%;
+    left: 33px;
+    top: 19px;
+    z-index: -1;
+    transform: rotate(-55deg);
+
+}
+.beg{
+    width: 104px;
+    height: 126px;
+    background-color: white;
+    position: absolute;
+    top: 167px;
+    left: -6px;
+    border-radius: 100%;
+}
+.leg{
+    width: 127px;
+    height: 96px;
+    background-color: yellow;
+    position: absolute;
+    top: 267px;
+    left: 79px;
+    z-index: -1;
+}
